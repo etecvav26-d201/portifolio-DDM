@@ -133,13 +133,13 @@ Na Tela 1, foi implementada uma funcionalidade que permite fazer o celular vibra
 ## Print das telas do Design
 ![Design 1 do App](imagens/5inter1.png)
 ![Design 1 do App](imagens/5inter2.png)
-![Design 1 do App](imagens/5inte3.png)
+![Design 1 do App](imagens/5inter3.png)
 
 ---
 
 ## Print das telas dos Blocos
-![Bloco 1 do App](imagens/5blocos1.png),
-![Bloco 1 do App](imagens/5blocos2.png),
+![Bloco 1 do App](imagens/5blocos1.png)
+![Bloco 1 do App](imagens/5blocos2.png)
 ![Bloco 1 do App](imagens/5blocos3.png)
 
 ---

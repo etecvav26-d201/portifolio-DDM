@@ -35,12 +35,12 @@
 ---
 
 ## 🎨 Print das telas do Design
-![Design do App](caminho-da-imagem/design1.png)
+![Design do App](imagens/1inter.png)
 
 ---
 
 ## 🧩 Print das telas dos Blocos
-![Blocos do App](caminho-da-imagem/blocos1.png)
+![Blocos do App](imagens/1blocos.png)
 
 ---
 
@@ -59,12 +59,12 @@
 ---
 
 ## 🎨 Print das telas do Design
-![Design do App](caminho-da-imagem/design2.png)
+![Design do App](imagens/2inter.png)
 
 ---
 
 ## 🧩 Print das telas dos Blocos
-![Blocos do App](caminho-da-imagem/blocos2.png)
+![Blocos do App](imagens/2blocos.png)
 
 ---
 
@@ -83,12 +83,12 @@
 ---
 
 ## 🎨 Print das telas do Design
-![Design do App](caminho-da-imagem/design3.png)
+![Design do App](imagens/3inter.png)
 
 ---
 
 ## 🧩 Print das telas dos Blocos
-![Blocos do App](caminho-da-imagem/blocos3.png)
+![Blocos do App](imagens/3blocos.png)
 
 ---
 

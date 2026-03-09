@@ -106,12 +106,12 @@
 ---
 
 ## Print das telas do Design
-![Design do App](caminho-da-imagem/design4.png)
+![Design do App](imagens/4inter.png)
 
 ---
 
 ## Print das telas dos Blocos
-![Blocos do App](caminho-da-imagem/blocos4.png)
+![Blocos do App](imagens/4blocos.png)
 
 ---
 
@@ -131,12 +131,16 @@ Na Tela 1, foi implementada uma funcionalidade que permite fazer o celular vibra
 ---
 
 ## Print das telas do Design
-![Design do App](caminho-da-imagem/design5.png)
+![Design 1 do App](imagens/5inter1.png)
+![Design 1 do App](imagens/5inter2.png)
+![Design 1 do App](imagens/5inte3.png)
 
 ---
 
 ## Print das telas dos Blocos
-![Blocos do App](caminho-da-imagem/blocos5.png)
+![Bloco 1 do App](imagens/5blocos1.png),
+![Bloco 1 do App](imagens/5blocos2.png),
+![Bloco 1 do App](imagens/5blocos3.png)
 
 ---
 
@@ -155,12 +159,12 @@ Na Tela 1, foi implementada uma funcionalidade que permite fazer o celular vibra
 ---
 
 ## Print das telas do Design
-![Design do App](caminho-da-imagem/design6.png)
+![Design do App](imagens/6inter.png)
 
 ---
 
 ## Print das telas dos Blocos
-![Blocos do App](caminho-da-imagem/blocos6.png)
+![Blocos do App](imagens/6blocos.png)
 
 ---
 

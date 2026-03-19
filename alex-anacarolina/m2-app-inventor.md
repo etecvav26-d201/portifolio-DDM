@@ -81,3 +81,12 @@
     Em relação ao exemplo apresentado na apostila, foram feitas algumas alterações na interface e na funcionalidade do aplicativo. A cor dos botões foi modificada para melhorar o visual e tornar a interface mais agradável.
 
 ---
+## Print das telas do Design
+![Design do App](imagens/designer5.png)
+
+---
+
+## Print das telas dos Blocos
+![Blocos do App](imagens/blocos5.png)
+
+---

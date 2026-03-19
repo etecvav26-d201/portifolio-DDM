@@ -90,3 +90,5 @@
 ![Blocos do App](imagens/blocos5.png)
 
 ---
+
+*Repositório criado para fins educacionais no curso de Informática para Internet.*

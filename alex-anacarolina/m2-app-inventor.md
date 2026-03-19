@@ -41,3 +41,16 @@
 ![Blocos do App](imagens/blocos4.png)
 
 ---
+# Projeto 5 – Quinto Aplicativo (pg. 69)
+
+## Descrição
+**Objetivo:**  
+     objetivo deste aplicativo é demonstrar o uso de múltiplas telas dentro de um mesmo projeto, permitindo a navegação entre diferentes partes do aplicativo. A proposta é apresentar como um aplicativo pode organizar diferentes funcionalidades em telas separadas, melhorando a estrutura e a experiência do usuário.
+
+**Funcionamento:**  
+    O aplicativo possui uma tela inicial que apresenta dois botões principais. Ao clicar em cada um deles, o usuário é direcionado para uma das duas telas disponíveis no aplicativo. Cada uma dessas telas também possui botões que permitem retornar ou navegar entre as outras telas do aplicativo.
+
+**Modificações realizadas:**  
+    Em relação ao exemplo apresentado na apostila, foram realizadas diversas melhorias na interface do aplicativo, com o objetivo de deixá-la mais organizada e visualmente mais agradável. Foram feitas mudanças no estilo dos botões, nos fundos das telas e nos textos exibidos. Também foi adicionada uma imagem na tela 2 para melhorar a apresentação do aplicativo e apresentar o usuário ao curso. 
+
+---

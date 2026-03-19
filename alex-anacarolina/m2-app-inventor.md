@@ -54,3 +54,16 @@
     Em relação ao exemplo apresentado na apostila, foram realizadas diversas melhorias na interface do aplicativo, com o objetivo de deixá-la mais organizada e visualmente mais agradável. Foram feitas mudanças no estilo dos botões, nos fundos das telas e nos textos exibidos. Também foi adicionada uma imagem na tela 2 para melhorar a apresentação do aplicativo e apresentar o usuário ao curso. 
 
 ---
+## Print das telas do Design
+![Design 1 do App](imagens/designer6-1.png)
+![Design 1 do App](imagens/designer6-2.png)
+![Design 1 do App](imagens/designer6-3.png)
+
+---
+
+## Print das telas dos Blocos
+![Bloco 1 do App](imagens/blocos6-1.png)
+![Bloco 1 do App](imagens/blocos6-2.png)
+![Bloco 1 do App](imagens/blocos6-3.png)
+
+---

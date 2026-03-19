@@ -31,3 +31,13 @@
     Em relação ao exemplo apresentado na apostila, foram realizadas alterações na interface para melhorar a organização e o visual do aplicativo. Os botões foram organizados utilizando estruturas horizontais e receberam cores diferentes, tornando a interface mais clara e agradável para o usuário.
 
 ---
+
+## Print das telas do Design
+![Design do App](imagens/designer4.png)
+
+---
+
+## Print das telas dos Blocos
+![Blocos do App](imagens/blocos4.png)
+
+---

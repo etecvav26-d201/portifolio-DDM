@@ -67,3 +67,17 @@
 ![Bloco 1 do App](imagens/blocos6-3.png)
 
 ---
+
+# Projeto 6 – Sexto Aplicativo (pg. 82)
+
+## Descrição
+**Objetivo:**  
+    O objetivo deste aplicativo é demonstrar o uso de entrada de dados pelo teclado do celular dentro de um aplicativo. A proposta é permitir que o usuário digite seu nome e receba uma mensagem personalizada, mostrando como as informações inseridas pelo usuário podem ser utilizadas pelo aplicativo.
+
+**Funcionamento:**  
+    O aplicativo possui um campo de texto onde o usuário pode digitar seu nome utilizando o teclado do celular. Após inserir o nome e confirmar a ação, o aplicativo exibe uma mensagem na tela que inclui o nome digitado pelo usuário, criando uma resposta personalizada. Dessa forma, o aplicativo demonstra como capturar e utilizar dados fornecidos pelo usuário durante a execução.
+
+**Modificações realizadas:**  
+    Em relação ao exemplo apresentado na apostila, foram feitas algumas alterações na interface e na funcionalidade do aplicativo. A cor dos botões foi modificada para melhorar o visual e tornar a interface mais agradável.
+
+---

@@ -33,6 +33,16 @@
 
 ---
 
+## Print das telas do Design
+![Design do App](imagens/designer1.png)
+
+---
+
+## Print das telas dos Blocos
+![Blocos do App](imagens/blocos1.png)
+
+---
+
 # Projeto 4 – Quarto Aplicativo (pg. 64)
 
 ## Descrição

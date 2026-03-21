@@ -43,6 +43,20 @@
 
 ---
 
+# Projeto 2 – Segundo Aplicativo (pg. 46)
+
+## Descrição
+**Objetivo do aplicativo:**  
+    O objetivo deste aplicativo é permitir que o usuário desenhe na tela utilizando diferentes cores. O projeto foi desenvolvido para demonstrar conceitos de interação com múltiplos botões e manipulação de elementos gráficos na tela, permitindo que o usuário escolha diferentes opções de cor para realizar desenhos.
+
+**Funcionamento:**  
+    O aplicativo possui quatro botões, cada um representando uma cor diferente de pincel. Quando o usuário seleciona um desses botões, o pincel passa a desenhar na tela utilizando a cor correspondente. Assim, o usuário pode desenhar livremente na área disponível. Além disso, na parte inferior da tela há um botão responsável por limpar o desenho, apagando tudo que foi feito e permitindo que o usuário comece novamente.
+
+**Alterações feitas em relação à apostila:**  
+    Em relação ao exemplo apresentado na apostila, foram realizadas algumas modificações na interface do aplicativo com o objetivo de melhorar sua estética e organização. Foram utilizadas organizações horizontais para alinhar melhor os botões na tela, deixando o layout mais estruturado e agradável visualmente. Também foi alterada a imagem de fundo do aplicativo para a imagem de um quadro, e nas mudanças principais, também foi alterado as cores que podem ser utilizadas no aplicativo, com a adição do rosa e azul escuro.
+
+---
+
 # Projeto 4 – Quarto Aplicativo (pg. 64)
 
 ## Descrição

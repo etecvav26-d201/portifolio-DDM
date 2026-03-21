@@ -67,6 +67,21 @@
 
 ---
 
+# Projeto 3 – Terceiro Aplicativo (pg. 56)
+
+## Descrição
+**Objetivo:**  
+    O objetivo deste aplicativo é demonstrar o uso de recursos do dispositivo móvel, como vibração e reprodução de sons. A proposta do projeto é criar uma interação simples e divertida, onde o usuário pode simular o funcionamento de um liquidificador ao tocar na imagem exibida na tela.
+
+**Funcionamento:**  
+    O aplicativo apresenta, no centro da tela, a imagem de um liquidificador. Quando o usuário clica nessa imagem, o aplicativo executa duas ações simultaneamente: o celular começa a vibrar e um som de liquidificador é reproduzido, simulando o funcionamento do aparelho. Além disso, na parte inferior da tela há um botão que permite ao usuário encerrar e sair da aplicação.
+
+**Modificações realizadas:**  
+    Em relação ao exemplo apresentado na apostila, foram realizadas algumas alterações altamente notáveis, como por exemplo, a mudança de um liquidificador para um ventilador. Também foram utilizadas organizações verticais, deixando o layout mais alinhado e visualmente mais agradável.
+
+---
+
+
 # Projeto 4 – Quarto Aplicativo (pg. 64)
 
 ## Descrição

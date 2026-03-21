@@ -74,3 +74,20 @@ No desenvolvimento do aplicativo, foram utilizados alguns conceitos importantes 
 ![Design Final da Tela da Quarta Receita](imagens/designfinal4.png)
 
 ---
+
+# Prints dos Blocos do App
+
+## Blocos da Tela Inicial
+![Blocos da Tela Inicial](imagens/blocos1.png)
+
+## Blocos da Primeira Receita
+![Blocos da Primeira Receita](imagens/blocos2.png)
+
+## Blocos da Segunda Receita
+![Blocos da Segunda Receita](imagens/blocos3.png)
+
+## Blocos da Terceira Receita
+![Blocos da Terceira Receita](imagens/blocos4.png)
+
+## Blocos da Quarta Receita
+![Blocos da Quarta Receita](imagens/blocos5.png)

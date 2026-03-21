@@ -62,16 +62,16 @@ No desenvolvimento do aplicativo, foram utilizados alguns conceitos importantes 
 ![Design Final da Tela Inicial](imagens/designfinal1.png)
 
 ## Design Final da Tela da Primeira Receita
-![Design Final da Tela da Primeira Receita](imagens/designfinal1.png)
+![Design Final da Tela da Primeira Receita](imagens/designfinal2.png)
 
 ## Design Final da Tela da Segunda Receita
-![Design Final da Tela da Segunda Receita](imagens/designfinal2.png)
+![Design Final da Tela da Segunda Receita](imagens/designfinal3.png)
 
 ## Design Final da Tela da Terceira Receita
-![Design Final da Tela da Terceira Receita](imagens/designfinal3.png)
+![Design Final da Tela da Terceira Receita](imagens/designfinal4.png)
 
 ## Design Final da Tela da Quarta Receit
-![Design Final da Tela da Quarta Receita](imagens/designfinal4.png)
+![Design Final da Tela da Quarta Receita](imagens/designfinal5.png)
 
 ---
 

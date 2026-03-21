@@ -44,3 +44,16 @@ No desenvolvimento do aplicativo, foram utilizados alguns conceitos importantes 
 ---
 
 ## Prints das telas de Design
+
+![Design da Primeira Versão do App](imagens/designer1.png)
+![Design da Segunda Versão do App](imagens/designer2.png)
+![Design da Terceira Versão do App](imagens/designer3.png)
+![Design da Primeira Versão do App](imagens/designer4.png)
+
+![Design Final da Tela Inicial](imagens/designfinal1.png)
+![Design Final da Tela da Primeira Receita](imagens/designfinal1.png)
+![Design Final da Tela da Segunda Receita](imagens/designfinal2.png)
+![Design Final da Tela da Terceira Receita](imagens/designfinal3.png)
+![Design Final da Tela da Quarta Receita](imagens/designfinal4.png)
+
+---

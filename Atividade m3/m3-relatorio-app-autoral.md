@@ -24,7 +24,7 @@
 # 📱 Projeto
 
 ## Título
-`Receitas Cotidianas`
+Receitas Cotidianas
 
 ---
 
@@ -54,7 +54,7 @@ No desenvolvimento do aplicativo, foram utilizados alguns conceitos importantes 
 ## Design da Terceira Versão do App
 ![Design da Terceira Versão do App](imagens/designer3.png)
 
-## Design da Primeira Versão do App
+## Design da Quarta Versão do App
 ![Design da Primeira Versão do App](imagens/designer4.png)
 
 

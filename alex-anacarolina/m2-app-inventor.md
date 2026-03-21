@@ -18,6 +18,21 @@
 - `Ana Carolina Bernal Santos`
 
 ---
+
+# Projeto 1 – Primeiro Aplicativo (pg. 27)
+
+## Descrição
+**Objetivo do aplicativo:**  
+    O objetivo deste aplicativo é demonstrar, de forma simples, o funcionamento de eventos em aplicativos mobile. Ao interagir com um botão na interface, o usuário recebe uma mensagem de saudação. O projeto tem como finalidade introduzir conceitos básicos de programação em aplicativos, como interação com botões e exibição de mensagens na tela.
+
+**Como ele funciona:**  
+    O aplicativo possui um botão na interface principal. Sempre que o usuário clica nesse botão, o aplicativo executa um comando programado que exibe a mensagem "Olá mundo" na tela. Esse comportamento é controlado por blocos de programação que detectam o clique no botão e acionam a exibição da mensagem.
+
+**Modificações ou melhorias em relação ao exemplo da apostila:**  
+    Em relação ao exemplo apresentado na apostila, foram realizadas modificações na interface do aplicativo para torná-la mais organizada e visualmente agradável. Para isso, foram utilizados sistemas de organização horizontal, permitindo um melhor alinhamento dos elementos na tela e uma apresentação mais clara para o usuário, além também da mudança da imagem apresentada.
+
+---
+
 # Projeto 4 – Quarto Aplicativo (pg. 64)
 
 ## Descrição

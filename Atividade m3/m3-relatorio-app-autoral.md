@@ -57,6 +57,8 @@ No desenvolvimento do aplicativo, foram utilizados alguns conceitos importantes 
 ## Design da Quarta Versão do App
 ![Design da Primeira Versão do App](imagens/designer4.png)
 
+## Design Finnal da Tela de Carregamento
+![Design Final da Tela Inicial](imagens/designfinalloading.png)
 
 ## Design Final da Tela Inicial
 ![Design Final da Tela Inicial](imagens/designfinal1.png)
@@ -80,20 +82,23 @@ No desenvolvimento do aplicativo, foram utilizados alguns conceitos importantes 
 
 # Prints dos Blocos do App
 
-## Blocos da Tela Inicial
+## Blocos da Tela de Carregamento
 ![Blocos da Tela Inicial](imagens/blocos1.png)
 
+## Blocos da Tela Inicial
+![Blocos da Tela Inicial](imagens/blocos2.png)
+
 ## Blocos da Primeira Receita
-![Blocos da Primeira Receita](imagens/blocos2.png)
+![Blocos da Primeira Receita](imagens/blocos3.png)
 
 ## Blocos da Segunda Receita
-![Blocos da Segunda Receita](imagens/blocos3.png)
+![Blocos da Segunda Receita](imagens/blocos4.png)
 
 ## Blocos da Terceira Receita
-![Blocos da Terceira Receita](imagens/blocos4.png)
+![Blocos da Terceira Receita](imagens/blocos5.png)
 
 ## Blocos da Quarta Receita
-![Blocos da Quarta Receita](imagens/blocos5.png)
+![Blocos da Quarta Receita](imagens/blocos6.png)
 
 ## Blocos da Tela do Passa Tempo
-![Blocos da Tela dao Passa Tempo](imagens/blocos6.png)
+![Blocos da Tela dao Passa Tempo](imagens/blocos7.png)

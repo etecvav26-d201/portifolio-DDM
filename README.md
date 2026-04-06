@@ -1,4 +1,4 @@
-# 📱 Portifólio Desenvolvimento de Dispositivos Móveis - D201
+# 📱 Portifólio de Desenvolvimento de Dispositivos Móveis - D201
 
 Bem-vindo ao repositório **Portifólio Desenvolvimento de Dispositivos Móveis**! 🚀  
 

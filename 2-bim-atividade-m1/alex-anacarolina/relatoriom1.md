@@ -52,9 +52,12 @@ A interface foi inspirada no aplicativo da Smart Fit, com foco em um design mode
 
 ## Print das telas do Design
 
+![Design do App](imagens/design3.png)
+
 ---
 
 ## Print das telas dos Blocos
 
----
+![Blocos do App](imagens/blocos3.png)
 
+---

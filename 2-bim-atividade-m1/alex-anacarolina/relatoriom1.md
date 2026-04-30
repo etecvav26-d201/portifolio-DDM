@@ -95,3 +95,28 @@ A interface foi inspirada no aplicativo da Smart Fit, com foco em um design mode
 ![Blocos do App](imagens/blocos3.png)
 
 ---
+
+# Projeto 4 – Quarto Aplicativo
+
+## Descrição
+
+**Objetivo:**
+O objetivo deste aplicativo é permitir que o usuário realize uma ligação telefônica diretamente pelo aplicativo. O projeto demonstra o uso de funcionalidades nativas do dispositivo relacionadas à comunicação.
+
+**Funcionamento:**
+O aplicativo possui um botão que, ao ser pressionado, inicia uma chamada telefônica para um número previamente definido.
+
+**Modificações realizadas:**
+A interface foi baseada no aplicativo da Vivo, incluindo elementos visuais como cores características e inserção de áreas simulando propagandas. Essas modificações deixam o aplicativo mais próximo de um produto real de mercado.
+
+## Print das telas do Design
+
+![Design do App](imagens/design4.png)
+
+## Print das telas dos Blocos
+
+![Blocos do App](imagens/blocos4.png)
+
+---
+
+*Relatório desenvolvido para fins educacionais no curso de Informática para Internet.*

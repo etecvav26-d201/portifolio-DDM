@@ -48,6 +48,29 @@ Em relação ao modelo básico de um único botão, foram adicionados vários bo
 
 ---
 
+# Projeto 2 – Segundo Aplicativo
+
+## Descrição
+
+**Objetivo do aplicativo:**
+O objetivo deste aplicativo é permitir que o usuário envie um e-mail diretamente ao clicar em um botão. O projeto demonstra a integração com funcionalidades de comunicação do dispositivo.
+
+**Funcionamento:**
+O aplicativo possui um botão principal que, ao ser pressionado, abre o aplicativo de e-mail do dispositivo já com um destinatário, assunto e mensagem previamente definidos.
+
+**Modificações realizadas:**
+A interface foi adaptada com base na estética da Filarmônica de Berlim, utilizando elementos visuais mais sofisticados, cores escuras e organização minimalista. Essas alterações visam melhorar a aparência sem alterar a funcionalidade principal.
+
+## Print das telas do Design
+
+![Design do App](imagens/design2.png)
+
+## Print das telas dos Blocos
+
+![Blocos do App](imagens/blocos2.png)
+
+---
+
 # Projeto 3 – Terceiro Aplicativo
 
 ## Descrição

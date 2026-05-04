@@ -48,6 +48,31 @@ A interface foi adaptada para representar uma página inicial com informações 
 
 ---
 
+# Projeto 2 – Segundo Aplicativo
+
+## Descrição
+
+**Objetivo do aplicativo:**
+O objetivo deste aplicativo é permitir que o usuário envie um e-mail diretamente ao clicar em um botão, demonstrando a integração com serviços de comunicação do dispositivo.
+
+**Funcionamento:**
+O aplicativo possui um botão que abre o aplicativo de e-mail com destinatário, assunto e mensagem previamente definidos.
+
+**Modificações realizadas:**
+A interface foi modificada para um modelo de aplicativo de dúvidas, contendo campos visuais que simulam o envio de perguntas. Apesar da mudança estética, a funcionalidade principal de envio de e-mail foi mantida.
+
+---
+
+## Print das telas do Design
+
+![Design do App](imagens/design2.png.png)
+
+## Print das telas dos Blocos
+
+![Blocos do App](imagens/blocos2.png)
+
+---
+
 # Projeto 3 – Terceiro Aplicativo
 
 ## Descrição

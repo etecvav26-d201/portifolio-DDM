@@ -42,10 +42,33 @@ A interface foi adaptada para representar uma página inicial com informações 
 
 ![Design do App](imagens/1inter.png)
 
----
-
 ## Print das telas dos Blocos
 
 ![Blocos do App](imagens/1blocos.png)
+
+---
+
+# Projeto 3 – Terceiro Aplicativo
+
+## Descrição
+
+**Objetivo:**
+O objetivo deste aplicativo é permitir que o usuário visualize uma localização específica no mapa, demonstrando o uso de integração com serviços de localização.
+
+**Funcionamento:**
+O aplicativo possui um botão que, ao ser clicado, abre o Google Maps direcionando para uma localização previamente definida.
+
+**Modificações realizadas:**
+A interface foi adaptada para simular a página inicial de um restaurante italiano. Foram adicionados botões para acesso ao cardápio e à localização, mantendo a funcionalidade principal de abertura do mapa.
+
+---
+
+## Print das telas do Design
+
+![Design do App](imagens/3inter.png)
+
+## Print das telas dos Blocos
+
+![Blocos do App](imagens/3blocos.png)
 
 ---

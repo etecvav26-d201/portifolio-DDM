@@ -1,6 +1,4 @@
-# 📱 Portifólio de Desenvolvimento de Dispositivos Móveis - D201
-
-Bem-vindo ao repositório **Portifólio Desenvolvimento de Dispositivos Móveis**! 🚀  
+# Portifólio de Desenvolvimento de Dispositivos Móveis - D201
 
 Este repositório reúne diversos **projetos e aplicações mobile**, desenvolvidos com o 
 objetivo de **aprender, praticar e demonstrar conhecimentos na criação de aplicativos para celular**.
@@ -24,7 +22,7 @@ O objetivo deste repositório é:
 
 ---
 
-# 👨‍💻 Alunos Desenvolvedores
+# Alunos Desenvolvedores
 
 Este projeto foi desenvolvido pelos seguintes alunos:
 
@@ -35,25 +33,25 @@ Este projeto foi desenvolvido pelos seguintes alunos:
 
 ---
 
-# 🧰 Tecnologias e Ferramentas Utilizadas
+# Tecnologias e Ferramentas Utilizadas
 
 Os projetos deste repositório utilizam ferramentas voltadas ao desenvolvimento mobile:
 
-### 📱 Desenvolvimento de Aplicativos
+### Desenvolvimento de Aplicativos
 - **MIT App Inventor**
 - **Programação em Blocos (Block Programming)**
 
-### 🎨 Interface e Design
+### Interface e Design
 - **Componentes visuais (botões, textos, imagens)**
 - **Organização de layout mobile**
 
-### 🔧 Controle de Versão
+### Controle de Versão
 - **Git**
 - **GitHub**
 
 ---
 
-# 📂 Conteúdo do Repositório
+# Conteúdo do Repositório
 
 Atualmente, o repositório contém:
 
@@ -69,7 +67,7 @@ explorar diferentes conceitos do desenvolvimento para dispositivos móveis.
 
 ---
 
-# 🎯 Objetivo do Projeto
+# Objetivo do Projeto
 
 O objetivo principal deste portfólio é **consolidar o aprendizado em desenvolvimento de aplicativos mobile**, reunindo 
 projetos que demonstram:
@@ -85,7 +83,7 @@ Além disso, o repositório funciona como uma **base de referência para estudos
 
 ---
 
-# 🚀 Evolução do Repositório
+# Evolução do Repositório
 
 Este portfólio está **em constante crescimento**.  
 Novos aplicativos, funcionalidades e melhorias serão adicionados conforme o avanço dos estudos e das práticas em desenvolvimento mobile.

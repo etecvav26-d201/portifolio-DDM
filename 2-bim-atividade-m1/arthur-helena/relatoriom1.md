@@ -65,7 +65,7 @@ A interface foi modificada para um modelo de aplicativo de dúvidas, contendo ca
 
 ## Print das telas do Design
 
-![Design do App](Imagens/design2.png.png)
+![Design do App](Imagens/design2.png)
 
 ## Print das telas dos Blocos
 

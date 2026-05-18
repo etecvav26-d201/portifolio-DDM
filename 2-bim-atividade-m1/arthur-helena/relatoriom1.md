@@ -40,11 +40,11 @@ A interface foi adaptada para representar uma página inicial com informações 
 
 ## Print das telas do Design
 
-![Design do App](imagens/design1.png)
+![Design do App](Imagens/design1.png)
 
 ## Print das telas dos Blocos
 
-![Blocos do App](imagens/blocos1.png)
+![Blocos do App](Imagens/blocos1.png)
 
 ---
 
@@ -65,11 +65,11 @@ A interface foi modificada para um modelo de aplicativo de dúvidas, contendo ca
 
 ## Print das telas do Design
 
-![Design do App](imagens/design2.png.png)
+![Design do App](Imagens/design2.png.png)
 
 ## Print das telas dos Blocos
 
-![Blocos do App](imagens/blocos2.png)
+![Blocos do App](Imagens/blocos2.png)
 
 ---
 
@@ -90,11 +90,11 @@ A interface foi adaptada para simular a página inicial de um restaurante italia
 
 ## Print das telas do Design
 
-![Design do App](imagens/design3.png)
+![Design do App](Imagens/design3.png)
 
 ## Print das telas dos Blocos
 
-![Blocos do App](imagens/blocos3.png)
+![Blocos do App](Imagens/blocos3.png)
 
 ---
 
@@ -115,11 +115,11 @@ O aplicativo foi adaptado para um modelo de emergência, com botões específico
 
 ## Print das telas do Design
 
-![Design do App](imagens/design4.png.png)
+![Design do App](Imagens/design4.png.png)
 
 ## Print das telas dos Blocos
 
-![Blocos do App](imagens/blocos4.png)
+![Blocos do App](Imagens/blocos4.png)
 
 ---
 

@@ -115,7 +115,7 @@ O aplicativo foi adaptado para um modelo de emergência, com botões específico
 
 ## Print das telas do Design
 
-![Design do App](Imagens/design4.png.png)
+![Design do App](Imagens/design4.png)
 
 ## Print das telas dos Blocos
 

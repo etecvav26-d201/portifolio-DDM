@@ -13,7 +13,7 @@ O MIT App Inventor é uma plataforma para desenvolvimento de aplicativos
 para celular desenvolvido pelo MIT, que entre seus componentes possui o TinyDB,
 que é utilizado para armazenar dados localmente no celular, permitindo que
 as informações permaneçam disponíveis mesmo após o aplicativo ser
-fechado.
+fechado. 
 
 ## 1. O que é o MIT App Inventor?
 
@@ -27,6 +27,8 @@ iniciantes e para o ensino de lógica de programação, além de ser completamen
 
 O TinyDB é um componente de armazenamento local que salva informações permanentemente na 
 memória interna do dispositivo, funcionando sem internet, ficando apenas no aparelho.
+
+![Componente TinyDB](imagens/tinydb.png)
 
 ## 3. Funcionamento do TinyDB
 

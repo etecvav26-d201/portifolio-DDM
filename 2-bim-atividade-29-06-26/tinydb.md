@@ -47,3 +47,22 @@ StoreValue novamente usando a mesma Tag. - Remoção: ClearTag.
   GetValue    | Recupera um valor
   ClearTag    | Remove uma Tag
   ClearAll    | Remove todos os dados
+
+## 5. Aplicações práticas
+
+O TinyDB pode ser utilizado em: - Lista de tarefas; - Agenda de
+contatos; - Cadastro de clientes; - Lista de compras; - Aplicativos de
+anotações; - Controle financeiro; - Jogos com armazenamento de
+pontuação.
+
+Essas aplicações utilizam pequenas quantidades de dados armazenadas
+localmente.
+
+## 6. TinyDB × TinyWebDB
+
+  Característica     | TinyDB  | TinyWebDB
+  -------------------|---------|---------------------
+  Local              | Sim     | Não
+  Internet           | Não     | Sim
+  Compartilha dados  | Não     | Sim
+  Velocidade         | Alta    | Depende da conexão

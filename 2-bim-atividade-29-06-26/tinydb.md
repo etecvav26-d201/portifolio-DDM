@@ -24,3 +24,26 @@ iniciantes e para o ensino de lógica de programação, além de ser completamen
 
 O TinyDB é um componente de armazenamento local que salva informações permanentemente na 
 memória interna do dispositivo, funcionando sem internet, ficando apenas no aparelho.
+
+## 3. Funcionamento do TinyDB
+
+O TinyDB trabalha com Tags(chaves) e Values(valores).
+
+Exemplo:
+
+  Tag        | Valor
+  -----------| --------
+  nome       | Arthur
+  pontuacao  | 1500
+
+Operações: - Gravação: StoreValue. - Leitura: GetValue. - Atualização:
+StoreValue novamente usando a mesma Tag. - Remoção: ClearTag.
+
+## 4. Componentes relacionados
+
+  Bloco       | Função
+  ------------|------------------------
+  StoreValue  | Salva um valor
+  GetValue    | Recupera um valor
+  ClearTag    | Remove uma Tag
+  ClearAll    | Remove todos os dados

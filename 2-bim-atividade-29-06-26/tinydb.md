@@ -71,3 +71,17 @@ localmente.
   Internet           | Não     | Sim
   Compartilha dados  | Não     | Sim
   Velocidade         | Alta    | Depende da conexão
+
+## 7. Boas práticas
+
+Usar Tags padronizadas, evitar nomes repetidos, excluir dados desnecessários, 
+atualizar informações sempre que necessário e organizar os dados de forma lógica
+funcionam muito bem com o TinyDB.
+
+## 8. Conclusão
+
+O TinyDB é um dos principais componentes do MIT App Inventor para
+armazenamento local de dados, com sua simplicidade facilitando o
+desenvolvimento de aplicativos educacionais e comerciais de pequeno
+porte. Durante esta pesquisa foi possível compreender seu funcionamento,
+suas limitações e quando utilizar TinyDB ou TinyWebDB.

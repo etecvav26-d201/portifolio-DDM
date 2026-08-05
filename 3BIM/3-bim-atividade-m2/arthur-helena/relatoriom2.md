@@ -63,4 +63,28 @@ Durante o desenvolvimento foram implementadas diversas melhorias em relação ao
 
 ---
 
-*Relatório desenvolvido para fins educacionais na disciplina de Desenvolvimento para Dispositivos Móveis (DDM), utilizando o MIT App Inventor.*
+# Projeto 2 – MagicBall com Acelerômetro
+
+## Objetivo do jogo
+
+Neste jogo, o jogador utiliza o acelerômetro do celular para movimentar uma bola inclinando o aparelho. O objetivo é conduzir a bola até um buraco para completar a fase.
+
+## Modificações realizadas
+
+Foram realizadas as seguintes melhorias:
+
+- Desenvolvimento de um novo design para o cenário;
+- Criação de uma interface mais intuitiva;
+- Implementação de um sistema onde o buraco muda de cor aleatoriamente sempre que uma nova rodada inicia, tornando o jogo mais dinâmico visualmente.
+
+---
+
+## Print do Design
+
+![Design do MagicBall](imagens/int2.png)
+
+## Print dos Blocos
+
+![Blocos do MagicBall](imagens/blocos2.png)
+
+---

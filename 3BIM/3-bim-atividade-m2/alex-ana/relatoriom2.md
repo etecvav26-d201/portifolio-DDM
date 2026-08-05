@@ -58,3 +58,30 @@ Foi realizada a personalização da interface do jogo, tornando-a mais organizad
 ![Blocos do Brick Breaker](imagens/blocos1.png)
 
 ---
+
+# Projeto 2 – MagicBall com Acelerômetro
+
+## Objetivo do jogo
+
+Neste jogo, o jogador utiliza o acelerômetro do celular para movimentar uma bola inclinando o aparelho. O objetivo é conduzir a bola até o buraco para completar a fase.
+
+## Modificações realizadas
+
+Foram implementadas melhorias na mecânica do jogo para aumentar gradativamente sua dificuldade. Com o passar do tempo:
+
+- A velocidade de movimentação do buraco aumenta;
+- O tamanho do buraco diminui, exigindo maior precisão do jogador para concluir a fase.
+
+Essas alterações tornam a experiência mais dinâmica e desafiadora.
+
+---
+
+## Print do Design
+
+![Design do MagicBall](imagens/int1.png)
+
+## Print dos Blocos
+
+![Blocos do MagicBall](imagens/blocos1.png)
+
+---

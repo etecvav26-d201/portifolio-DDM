@@ -88,3 +88,37 @@ Foram realizadas as seguintes melhorias:
 ![Blocos do MagicBall](imagens/blocos2.png)
 
 ---
+
+# Projeto 3 – Sinuca com Gravidade Simulada
+
+## Objetivo do jogo
+
+O jogo simula uma mesa de sinuca em que o jogador utiliza a inclinação do celular para movimentar as bolas através da gravidade simulada. O objetivo é encaçapar todas as bolas.
+
+## Modificações realizadas
+
+As principais alterações realizadas foram:
+
+- Criação de uma nova interface para o jogo;
+- Desenvolvimento de um design personalizado para a mesa e seus elementos;
+- Alteração da mecânica do jogo para utilizar três bolas simultaneamente em vez de apenas uma, aumentando o nível de desafio e exigindo maior controle do jogador.
+
+---
+
+## Print do Design
+
+![Design da Sinuca](imagens/int3.png)
+
+## Print dos Blocos
+
+![Blocos da Sinuca](imagens/blocos3.png)
+
+---
+
+# Considerações Finais
+
+Os três projetos possibilitaram a aplicação prática dos conceitos estudados na disciplina de Desenvolvimento para Dispositivos Móveis (DDM), envolvendo programação por blocos, manipulação de componentes visuais, utilização de sensores do dispositivo e implementação de mecânicas de jogos. As modificações realizadas em cada projeto contribuíram para tornar os jogos mais completos, desafiadores e visualmente mais atrativos.
+
+---
+
+*Relatório desenvolvido para fins educacionais na disciplina de Desenvolvimento para Dispositivos Móveis (DDM), utilizando o MIT App Inventor.*

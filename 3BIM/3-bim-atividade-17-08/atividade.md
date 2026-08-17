@@ -19,4 +19,10 @@ informar datas, visualizar tarefas e marcar atividades como concluídas.
 
   Discordar, o aplicativo funcionar tecnicamente não significa que ele seja fácil ou adequado para o usuário, se o usuário não consegue entender como utilizar o aplicativo, existe um problema de interface ou de experiência do usuário que precisa ser corrigida, com o grupo podendo modificar a organização dos elementos, os textos, os botões ou a navegação e depois realizar novos testes.
 
+# Questão 4 — E quando alguma coisa dá errado?
+## Um aplicativo desenvolvido no App Inventor possui cadastro de informações utilizando o TinyDB. Durante os testes, o grupo percebeu que alguns dados não estavam sendo armazenados como esperado. Em vez de recomeçar todo o projeto, como o grupo poderia investigar e resolver o problema seguindo um processo organizado de desenvolvimento?
+## Descrevam uma sequência de ações envolvendo identificação do problema, testes, correções e novos testes.
+
+  O grupo poderia seguir uma sequência organizada, primeiro, deveria identificar exatamente qual problema está ocorrendo com o armazenamento no TinyDB, e depois, deveria realizar testes para descobrir em quais situações os dados deixam de ser armazenados corretamente. Em seguida, os blocos responsáveis pelo armazenamento deveriam ser analisados e corrigidos, com após a correção, o grupo deveria testar novamente o cadastro e verificar se os dados estão sendo armazenados e recuperados corretamente. Caso outro problema fosse encontrado, seria necessário realizar novas correções e testes.
+
   

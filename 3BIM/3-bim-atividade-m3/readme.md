@@ -138,6 +138,23 @@ A combinação desses recursos possibilitou a criação de um jogo que utiliza t
 
 ---
 
+# Imagens do Projeto
+
+## Interface
+
+![Interface1](imagens/inter1.png)
+![Interface2](imagens/inter2.png)
+![Interface3](imagens/inter3.png)
+
+## Blocos
+
+![Blocos1](imagens/blocos1.png)
+![Blocos2](imagens/blocos2-1.png)
+![Blocos2](imagens/blocos2-2.png)
+![Blocos2](imagens/blocos2-3.png)
+
+---
+
 # DECLARAÇÃO DE USO DE INTELIGÊNCIA ARTIFICIAL
 
 Durante o desenvolvimento do projeto foi utilizado o **ChatGPT** como ferramenta de apoio, principalmente durante as etapas de planejamento e desenvolvimento visual do jogo.

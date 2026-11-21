@@ -50,6 +50,31 @@ Após responder às perguntas, o aplicativo apresenta o resultado por meio de in
 
 ## Prints das telas do aplicativo
 
+### Design da Tela Inicial
+![Design da tela inicial](imagens/inter1.png)
+
+### Blocos da Tela Inicial
+![Blocos da tela inicial](imagens/blocos1.png)
+
+![Blocos 2](imagens/blocos2.png)
+
+![Blocos 3](imagens/blocos3.png)
+
+![Blocos 4](imagens/blocos4.png)
+
+![Blocos 5](imagens/blocos5.png)
+
+![Blocos 6](imagens/blocos6.png)
+
+![Blocos 7](imagens/blocos7.png)
+
+![Blocos 8](imagens/blocos8.png)
+
+![Blocos 9](imagens/blocos9.png)
+
+![Blocos 10](imagens/blocos10.png)
+
+![Blocos 11](imagens/blocos11.png)
 
 ---
 
